@@ -17,7 +17,7 @@
                     <!-- cart title -->
                     <div class="flex justify-between items-center">
                         <h3 class="font-bold">Dell Vestre</h3>
-                        <button @click="taggleIcon" ><img :src="myIcon" alt="img" class="w-6"></button>
+                        <button @click="taggleIcon" ><img :src="myIcon" alt="img" class="w-5"></button>
                     </div>
                     <!-- cart model -->
                     <h4>Dis Dell Vestre</h4>
